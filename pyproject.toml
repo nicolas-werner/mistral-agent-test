@@ -1,0 +1,8 @@
+[project]
+name = "research-agent"
+version = "0.1.0"
+description = "Conversational research agent built with the Mistral Agents SDK"
+requires-python = ">=3.12"
+dependencies = [
+    "mistralai-agents==1.1.0",
+]
